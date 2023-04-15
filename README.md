@@ -4,6 +4,9 @@
 
 The aim of this project is to analyze people’s happiness across the world, according to several factors. We will then, through this study, put in common multiple databases that recorded different information on people’s way of living, in order to find correlations between happiness and its circumstances.
 
+Our website can be visited at the link below :
+https://samiferchiou.github.io/Happiness/
+
 ## Dataset :
 
 For this project, we choose to work on different databases in order to put in common multiple types of information. 
